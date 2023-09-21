@@ -1,5 +1,4 @@
 ## Note Taker
-This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 by Nicole Torres
 Licensed under 
 ![Github License](https://img.shields.io/badge/License-ISC-blue.svg)
@@ -16,7 +15,10 @@ This application will use an Express.js back end and will save and retrieve note
 ## Install
 Express.js
 ## Usage
-Node server.js to begin the server to run the file
+Click on the "Get Started" Button provided to begin.Click on the righthand side titled "Note Title and begin typing the title you would like for your note. 
+Click the titled section " Note Text", please fill in whatever note you would like to leave. 
+Once completed you may press the save icon that will populate on the top righthand side. 
+Once clicked you should see your new note appear on the left.You have the option to either click on the note again to re open it back up Or you can click the trashcan icon and it will delete you note. 
 ## License
 ISC
 ## Contributing
