@@ -13,7 +13,7 @@ This application will use an Express.js back end and will save and retrieve note
 [Deployed-Page](#Deployed-Page)
 [Questions](#questions)
 ## Install
-Express.js
+Express.js and uuid NPM
 ## Usage
 Click on the "Get Started" Button provided to begin.Click on the righthand side titled "Note Title and begin typing the title you would like for your note. 
 Click the titled section " Note Text", please fill in whatever note you would like to leave. 
